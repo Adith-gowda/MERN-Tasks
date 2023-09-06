@@ -8,3 +8,7 @@
 
 # Details
 This repository includes all the tasks/works done during the course of the MERN-Stack.
+
+Consists of - 
+1) 5 HTML tasks
+2) 7 CSS tasks

@@ -4,6 +4,13 @@ body{
 .container{
     margin-top: 7%;
 }
+tr:nth-child(1){
+    background-color: rgb(18, 175, 123);
+    color:white;
+}
+tr:nth-child(even){
+    background-color:rgba(230, 228, 228, 0.736);
+}
 .table{
     border-top: 1px solid rgb(230, 228, 228, 0.736);
     border-left: 1px solid rgb(230, 228, 228, 0.736);
